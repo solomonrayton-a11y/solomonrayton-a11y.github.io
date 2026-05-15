@@ -3,5 +3,5 @@
 Computer Science student at Fort Valley State University  
 Background with Explainable AI and Machine Learning
 
-* srayton@wildcat.fvsu.edu 
-* solomonraytonlinkedin.com
+* [Email](srayton@wildcat.fvsu.edu)
+* [LinkedIn](https://www.linkedin.com/in/solomon-rayton/)
