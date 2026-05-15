@@ -5,3 +5,4 @@ Background with Explainable AI and Machine Learning
 
 * [Email](srayton@wildcat.fvsu.edu)
 * [LinkedIn](https://www.linkedin.com/in/solomon-rayton/)
+* [PIN](https://pingeorgia.org/team/solomon-rayton/)
